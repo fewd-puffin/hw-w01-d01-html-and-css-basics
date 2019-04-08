@@ -1,0 +1,39 @@
+body{
+    background-image:url("wallpaper.jpg");
+    
+    background-size: cover;
+    
+    background-repeat:no-repeat;
+}
+h1{
+    color:brown;
+    text-align:center;
+font-size: 40px;}
+    #first{
+        background-color: white;
+        background-size: 300px 300px ;
+        text-align: center;
+        opacity: 0.7;
+    }
+    h2{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    a {font-family: Arial, Helvetica, sans-serif;
+    color: black;
+text-decoration: none;
+font-size: 25px;}
+section a:active{text-decoration: underline;}
+.left{
+    text-align: left;
+    font-size:28px;
+}
+.left1{
+    text-align: left;
+    font-size:20px;
+}
+#Bold1{
+    font-weight: bold;
+}
+p,li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
