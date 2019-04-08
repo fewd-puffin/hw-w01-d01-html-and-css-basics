@@ -1,0 +1,14 @@
+body{
+    background-color: lightgrey;
+      font-family: helvetica;
+  }
+  h4,h1{
+    text-align: center;
+  }
+  p.social{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
